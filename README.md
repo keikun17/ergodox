@@ -3,15 +3,15 @@
 Quick reference:
 ---
 
-`Leader-W` =>  to  ALT-F4
-`;-~` =>  to Printscreen
-';-Q' =>  to Sleep
-`;-up` =>  to Volume up
-`;-down` =>  to Volume down
-`;-,` =>  to Toggle Mute
-`;-<` => Previous Track
-`;->` => Next Track
-`;-Enter => Play
+- `Leader-W` =>  to  ALT-F4
+- `;-~` =>  to Printscreen
+- ';-Q' =>  to Sleep
+- `;-up` =>  to Volume up
+- `;-down` =>  to Volume down
+- `;-,` =>  to Toggle Mute
+- `;-<` => Previous Track
+- `;->` => Next Track
+- `;-Enter => Play
 
 
 Layers
